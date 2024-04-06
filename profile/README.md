@@ -1,6 +1,6 @@
 # Bienvenido a MindNT
 
-![Logo de MindNT](ruta/a/tu/logo.png)
+<a href="https://ibb.co/hc77DwQ"><img src="https://i.ibb.co/sCmmyzx/Captura-de-pantalla-2024-04-06-a-la-s-4-16-33-p-m.png" alt="Captura-de-pantalla-2024-04-06-a-la-s-4-16-33-p-m" border="0" width="1000" height="425"></a>
 
 En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia artificial y automatización de servicios. Nuestra misión es transformar tus desafíos en éxitos, a través de la escucha activa, planificación meticulosa, innovación constante y desarrollo de soluciones de la más alta calidad. Estamos comprometidos en superar expectativas entregando soluciones que verdaderamente marcan la diferencia en tu negocio.
 
@@ -17,23 +17,6 @@ En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia 
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-## ¿Por Qué Elegir MindNT?
-
-- **Personalización**: Entendemos que cada desafío es único. Ofrecemos soluciones a medida que se ajustan perfectamente a tus necesidades.
-- **Innovación**: Nos mantenemos al filo de la tecnología, garantizando soluciones que no solo resuelven los problemas de hoy sino que te preparan para el futuro.
-- **Calidad**: No comprometemos la calidad. Nuestro equipo de expertos asegura que cada solución exceda tus expectativas.
-- **Pasión**: Nos apasionan los retos y la innovación. Si tú también compartes esta pasión, MindNT es tu espacio para crecer.
-
-## Nuestros Proyectos Destacados
-
-### GIO 360 - Reporte de Competencia y Estudio Financiero Físico
-
-GIO 360 es nuestra solución integral para empresas que buscan no solo entender su posición en el mercado frente a la competencia, sino también obtener un análisis detallado de su salud financiera y operativa. A través de un estudio financiero físico y análisis competitivo, GIO 360 ofrece insights valiosos para la toma de decisiones estratégicas.
-
-### TORC - Digitalizador de Documentos y Traductor
-
-TORC es la innovación al alcance de tu mano. Convierte cualquier documento físico en su equivalente digital con tan solo una foto. Pero no solo eso, TORC también traduce el contenido capturado, facilitando la gestión de documentos en múltiples idiomas. Ideal para empresas con operaciones internacionales o que manejan una gran cantidad de información en diferentes idiomas.
-
 ---
 
 <div align="center">
@@ -45,5 +28,20 @@ TORC es la innovación al alcance de tu mano. Convierte cualquier documento fís
 </p>
 
 ---
+## ¿Por Qué Elegir MindNT?
+
+- **Personalización**: Entendemos que cada desafío es único. Ofrecemos soluciones a medida que se ajustan perfectamente a tus necesidades.
+- **Innovación**: Nos mantenemos al filo de la tecnología, garantizando soluciones que no solo resuelven los problemas de hoy sino que te preparan para el futuro.
+- **Calidad**: No comprometemos la calidad. Nuestro equipo de expertos asegura que cada solución exceda tus expectativas.
+- **Pasión**: Nos apasionan los retos y la innovación. Si tú también compartes esta pasión, MindNT es tu espacio para crecer.
+
+
+## Nuestros Proyectos Destacados
+
+| Proyecto | Descripción | Enlace |
+| -------- | ----------- | ------ |
+| **GIO 360** 🌍 | **GIO 360** es nuestra solución integral para empresas físicas o emprendedores que buscan no solo entender su posición en el mercado frente a la competencia, sino también obtener un análisis detallado de su competencia, para la toma de decisiones en un área específica. A través de un estudio financiero físico y análisis competitivo geoespacial e informativo, **GIO 360** ofrece insights valiosos para la toma de decisiones estratégicas mediante la extracción de datos a la redonda referentes al giro de negocio seleccionado. | [Más información](#) |
+| **TORC** 📄 | **TORC** es la innovación al alcance de tu mano. Convierte cualquier documento físico en su equivalente digital con tan solo una foto. Pero no solo eso, **TORC** también traduce el contenido capturado, facilitando la gestión de documentos en múltiples idiomas. Ideal para empresas con operaciones internacionales o que manejan una gran cantidad de información en diferentes idiomas. | [Descubre TORC](#) |
+
 
 ## Documentos empresariales
