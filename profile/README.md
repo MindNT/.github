@@ -5,12 +5,12 @@
 En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia artificial y automatización de servicios. Nuestra misión es transformar tus desafíos en éxitos, a través de la escucha activa, planificación meticulosa, innovación constante y desarrollo de soluciones de la más alta calidad. Estamos comprometidos en superar expectativas entregando soluciones que verdaderamente marcan la diferencia en tu negocio.
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mindntlabs@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/mindntlabs" alt="LinkedIn"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/mindntlabs" alt="Facebook"/></a>
+  <a href="mailto:mindntlabs@gmail.com" title="Envíanos un correo">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/company/mindntlabs" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/mindntlabs" title="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 ---
