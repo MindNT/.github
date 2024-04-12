@@ -1,6 +1,6 @@
 # Bienvenido a MindNT
 
-<a href="https://ibb.co/qpX8G44"><img src="https://i.ibb.co/5Lt3Dzz/Captura-de-pantalla-2024-04-11-a-la-s-7-26-43-p-m.png" alt="Captura-de-pantalla-2024-04-11-a-la-s-7-26-43-p-m" border="0" width="1000" height="250"></a>
+<a href="https://ibb.co/qpX8G44"><img src="https://i.ibb.co/5Lt3Dzz/Captura-de-pantalla-2024-04-11-a-la-s-7-26-43-p-m.png" alt="Captura-de-pantalla-2024-04-11-a-la-s-7-26-43-p-m" border="0" width="600" height="150"></a>
 
 En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia artificial y automatización de servicios. Nuestra misión es transformar tus desafíos en éxitos, a través de la escucha activa, planificación meticulosa, innovación constante y desarrollo de soluciones de la más alta calidad. Estamos comprometidos en superar expectativas entregando soluciones que verdaderamente marcan la diferencia en tu negocio.
 
@@ -37,4 +37,4 @@ En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia 
 | Proyecto | Descripción | Enlace |
 | -------- | ----------- | ------ |
 | **GIO 360** 🌍 | **GIO 360** es nuestra solución integral para empresas físicas o emprendedores que buscan no solo entender su posición en el mercado frente a la competencia, sino también obtener un análisis detallado de su competencia, para la toma de decisiones en un área específica. A través de un estudio financiero físico y análisis competitivo geoespacial e informativo, **GIO 360** ofrece insights valiosos para la toma de decisiones estratégicas mediante la extracción de datos a la redonda referentes al giro de negocio seleccionado. | [Más información](https://github.com/MindNT/GIO360/tree/Feature/-V-1.1) |
-| **TORC** 📄 | **TORC** es la innovación al alcance de tu mano. Convierte cualquier documento físico en su equivalente digital con tan solo una foto. Pero no solo eso, **TORC** también traduce el contenido capturado, facilitando la gestión de documentos en múltiples idiomas. Ideal para empresas con operaciones internacionales o que manejan una gran cantidad de información en diferentes idiomas. | [Descubre TORC](#) |
+| **TORC** 📄 | **TORC** es la innovación al alcance de tu mano. Convierte cualquier documento físico en su equivalente digital con tan solo una foto. Pero no solo eso, **TORC** también traduce el contenido capturado, facilitando la gestión de documentos en múltiples idiomas. Ideal para empresas con operaciones internacionales o que manejan una gran cantidad de información en diferentes idiomas. | [Descubre TORC](https://github.com/MindNT/TORC/tree/Feature/-V-1.0) |
