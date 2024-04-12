@@ -1,6 +1,6 @@
 # Bienvenido a MindNT
 
-<a href="https://ibb.co/hc77DwQ"><img src="https://i.ibb.co/sCmmyzx/Captura-de-pantalla-2024-04-06-a-la-s-4-16-33-p-m.png" alt="Captura-de-pantalla-2024-04-06-a-la-s-4-16-33-p-m" border="0" width="1000" height="425"></a>
+<a href="https://ibb.co/qpX8G44"><img src="https://i.ibb.co/5Lt3Dzz/Captura-de-pantalla-2024-04-11-a-la-s-7-26-43-p-m.png" alt="Captura-de-pantalla-2024-04-11-a-la-s-7-26-43-p-m" border="0" width="1000" height="250"></a>
 
 En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia artificial y automatización de servicios. Nuestra misión es transformar tus desafíos en éxitos, a través de la escucha activa, planificación meticulosa, innovación constante y desarrollo de soluciones de la más alta calidad. Estamos comprometidos en superar expectativas entregando soluciones que verdaderamente marcan la diferencia en tu negocio.
 
