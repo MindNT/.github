@@ -38,6 +38,3 @@ En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia 
 | -------- | ----------- | ------ |
 | **GIO 360** 🌍 | **GIO 360** es nuestra solución integral para empresas físicas o emprendedores que buscan no solo entender su posición en el mercado frente a la competencia, sino también obtener un análisis detallado de su competencia, para la toma de decisiones en un área específica. A través de un estudio financiero físico y análisis competitivo geoespacial e informativo, **GIO 360** ofrece insights valiosos para la toma de decisiones estratégicas mediante la extracción de datos a la redonda referentes al giro de negocio seleccionado. | [Más información](#) |
 | **TORC** 📄 | **TORC** es la innovación al alcance de tu mano. Convierte cualquier documento físico en su equivalente digital con tan solo una foto. Pero no solo eso, **TORC** también traduce el contenido capturado, facilitando la gestión de documentos en múltiples idiomas. Ideal para empresas con operaciones internacionales o que manejan una gran cantidad de información en diferentes idiomas. | [Descubre TORC](#) |
-
-
-## Documentos empresariales
