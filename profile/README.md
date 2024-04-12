@@ -13,8 +13,6 @@ En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia 
     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
----
-
 <div align="center">
   <h3><b>📍 Contador de Visitantes del Perfil</b></h3>
 </div>
@@ -23,7 +21,6 @@ En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia 
   <img src="https://profile-counter.glitch.me/MindNT/count.svg" alt="Número de visitantes en el perfil" />
 </p>
 
----
 ## ¿Por Qué Elegir MindNT?
 
 - **Personalización**: Entendemos que cada desafío es único. Ofrecemos soluciones a medida que se ajustan perfectamente a tus necesidades.
@@ -31,6 +28,48 @@ En **MindNT**, somos especialistas en soluciones personalizadas de inteligencia 
 - **Calidad**: No comprometemos la calidad. Nuestro equipo de expertos asegura que cada solución exceda tus expectativas.
 - **Pasión**: Nos apasionan los retos y la innovación. Si tú también compartes esta pasión, MindNT es tu espacio para crecer.
 
+---
+
+🚀 **Explora Nuestros Servicios en MindNT** 🚀
+
+En **MindNT**, nos dedicamos a transformar desafíos en éxitos tecnológicos con soluciones innovadoras y personalizadas. Descubre cómo podemos potenciar tu negocio:
+
+### **Consultoría en Ciencia de Datos** 🔍
+- **Análisis avanzado y modelos predictivos.**
+  - Desarrollamos modelos que anticipan tendencias y comportamientos del mercado.
+- **Extracción de insights estratégicos.**
+  - Convertimos datos en información clave para tu estrategia empresarial.
+- **Soluciones personalizadas para tus necesidades de datos.**
+  - Cada solución es diseñada específicamente para responder a los desafíos únicos de tu negocio.
+
+### **Despliegue de Servicios** 🌐
+- **Implementación de soluciones basadas en la nube.**
+  - Aprovecha la flexibilidad y escalabilidad que ofrece la nube.
+- **Automatización y optimización de procesos.**
+  - Mejora continua para eficientizar operaciones y reducir costos.
+- **Soporte continuo para operaciones sin interrupciones.**
+  - Nuestro equipo asegura que tus servicios estén siempre disponibles y en óptimo estado.
+
+### **Desarrollo de Proyectos con Inteligencia Artificial** 🤖
+- **Integración de IA para mejorar eficiencia y productividad.**
+  - Implementamos sistemas inteligentes que transforman tu entorno laboral.
+- **Proyectos a medida desde la conceptualización hasta la ejecución.**
+  - Colaboramos estrechamente desde la idea inicial hasta su implementación final.
+- **Innovación continua con tecnología de vanguardia.**
+  - Estamos siempre al día con las últimas innovaciones para ofrecerte lo mejor en tecnología.
+
+### **Desarrollo de Dashboards** 📊
+- **Dashboards interactivos y visualmente atractivos.**
+  - Diseños que no solo presentan datos, sino que cuentan una historia.
+- **Herramientas de visualización de datos para monitoreo en tiempo real.**
+  - Accede a la información crítica de tu empresa en cualquier momento y desde cualquier lugar.
+- **Soluciones que permiten una toma de decisiones más rápida y fundamentada.**
+  - Nuestros dashboards están diseñados para facilitar la comprensión y acelerar la toma de decisiones.
+
+💡 **¿Listo para transformar tu negocio con tecnología avanzada y soluciones a medida?**  
+🔗 [Visita Nuestra Pagina](https://mindnt.github.io/MindNT_Labs/) para más información.
+
+---
 
 ## Nuestros Proyectos Destacados
 
