@@ -1,4 +1,4 @@
-# MindNT
+# MINDNT
 
 Desarrollo Web · Automatización · Plataformas Digitales · Soluciones con Inteligencia Artificial
 
