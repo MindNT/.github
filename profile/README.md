@@ -1,23 +1,23 @@
 # MINDNT
 
-Desarrollo Web · Automatización · Plataformas Digitales · Soluciones con Inteligencia Artificial
+Desarrollo web · Automatización · Plataformas digitales · Soluciones con inteligencia artificial  
 
-[Visita nuestra pagina web](https://mindnt.com.mx)
+[Visita nuestra página web](https://mindnt.com.mx)
 
-## Sobre Nosotros
+---
 
-En MindNT creamos soluciones digitales pensadas para crecer contigo. Nos dedicamos al desarrollo de sitios web, automatizaciones y plataformas a medida, integrando con criterio herramientas de inteligencia artificial que resuelven problemas reales y mejoran la experiencia de tus usuarios.
+## Sobre nosotros
 
-Nuestro trabajo combina solidez técnica, diseño centrado en las personas y un enfoque colaborativo. Creemos que la tecnología debe servir a los objetivos de tu negocio, no al revés.
+> Creamos tecnología que crece contigo.
 
-## Compromiso y Confianza
+En MINDNT diseñamos y construimos soluciones digitales con un propósito claro: resolver problemas reales. Nos especializamos en sitios web, automatizaciones y plataformas a medida, integrando con criterio herramientas de inteligencia artificial que mejoran la experiencia del usuario y potencian los objetivos del negocio.
 
-Cada proyecto que entregamos es el resultado de una colaboración cercana, con claridad en los plazos, costos y expectativas. 
+Nuestro enfoque combina solidez técnica, diseño centrado en las personas y una metodología profundamente colaborativa. Rechazamos la tecnología por la tecnología. Para nosotros, cada línea de código debe responder a una necesidad concreta.
 
-## Proyectos Destacados
+---
 
-- **[Thermo Energy]** – Pagina web 
-  [Visitar](https://thermoenergymx.com)
+## Compromiso y confianza
 
-- **[KiKoi Cafe]** – Pagina web con E-commerce
-  [Visitar](https://mindnt.github.io/Katana-website/)
+> Claridad en cada etapa: alcance, plazos, costo y entrega.
+
+Trabajamos con transparencia absoluta. Antes de escribir una sola línea de código, definimos juntos lo que significa el éxito. Cada proyecto se entrega no solo funcional, sino alineado con tu visión estratégica.
